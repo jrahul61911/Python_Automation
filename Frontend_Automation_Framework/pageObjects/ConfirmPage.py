@@ -15,6 +15,7 @@ class ConfirmPage:
     TextMatch = (By.CSS_SELECTOR, "[class*='alert-success']")
 
     def country_Names_List(self):
+        print("New List")
         return self.driver.find_element(*ConfirmPage.countryList)
 
     # def CountryNames(self):
