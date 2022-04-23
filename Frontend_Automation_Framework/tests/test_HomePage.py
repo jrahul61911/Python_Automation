@@ -33,6 +33,8 @@ class TestHomePage(BaseClass):
         print("A new test Print")
         print("A new test Print")
         print("A new test Print")
+        print("New Changes for master")
+        
         # driver.find_element(By.CSS_SELECTOR, "input[name='name']").send_keys("Rahul")
         # driver.find_element(By.NAME, 'email').sen d_keys("jrahulkumar6191@yahoo.com")
         # driver.find_element(By.NAME,"name").send_keys("Rahul")
