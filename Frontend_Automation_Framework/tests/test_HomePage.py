@@ -29,6 +29,12 @@ class TestHomePage(BaseClass):
 
         homepage.getName().send_keys(getData["FirstName"])
         print("It's printing")
+        print("A new test Print")
+        print("A new test Print")
+        print("A new test Print")
+        print("A new test Print")
+        print("New Changes for master")
+        
         # driver.find_element(By.CSS_SELECTOR, "input[name='name']").send_keys("Rahul")
         # driver.find_element(By.NAME, 'email').sen d_keys("jrahulkumar6191@yahoo.com")
         # driver.find_element(By.NAME,"name").send_keys("Rahul")
@@ -36,7 +42,7 @@ class TestHomePage(BaseClass):
         homepage.Pass().send_keys(getData["Password"])
         homepage.CheckBoXClick().click()
         self.SelectOptionByText(homepage.getGender(), "Male")
-        
+
         homepage.SubmitButton().click()
         out = self.driver.find_element(By.CSS_SELECTOR, "[class*='alert-success']").text
         self.driver.refresh()
