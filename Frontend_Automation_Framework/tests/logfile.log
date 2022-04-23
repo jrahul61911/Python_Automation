@@ -1,0 +1,20 @@
+2022-04-16 15:08:38,577 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 15:08:38,577 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 15:08:38,577 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 15:08:38,578 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 15:08:39,521 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 15:08:39,567 :INFO: utilities.BaseClass : iphone X
+2022-04-16 15:08:39,584 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 15:08:39,603 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 15:08:39,626 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 15:08:39,841 :INFO: utilities.BaseClass : Entering Country Name
+2022-04-16 15:11:25,532 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 15:11:25,533 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 15:11:25,533 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 15:11:25,533 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 15:11:26,852 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 15:11:26,882 :INFO: utilities.BaseClass : iphone X
+2022-04-16 15:11:26,893 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 15:11:26,904 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 15:11:26,916 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 15:11:27,114 :INFO: utilities.BaseClass : Entering Country Name

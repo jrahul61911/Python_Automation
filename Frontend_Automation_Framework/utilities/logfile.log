@@ -1,0 +1,30 @@
+2022-04-16 15:23:35,832 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 15:23:35,832 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 15:23:35,832 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 15:23:35,833 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 15:23:37,017 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 15:23:37,054 :INFO: utilities.BaseClass : iphone X
+2022-04-16 15:23:37,066 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 15:23:37,077 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 15:23:37,088 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 15:23:37,269 :INFO: utilities.BaseClass : Entering Country Name
+2022-04-16 16:21:30,000 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 16:21:30,000 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 16:21:30,000 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 16:21:30,000 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 16:21:31,033 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 16:21:31,063 :INFO: utilities.BaseClass : iphone X
+2022-04-16 16:21:31,075 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 16:21:31,086 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 16:21:31,096 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 16:21:31,243 :INFO: utilities.BaseClass : Entering Country Name
+2022-04-16 16:22:25,185 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 16:22:25,185 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 16:22:25,185 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 16:22:25,185 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 16:22:26,024 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 16:22:26,056 :INFO: utilities.BaseClass : iphone X
+2022-04-16 16:22:26,067 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 16:22:26,076 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 16:22:26,086 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 16:22:26,225 :INFO: utilities.BaseClass : Entering Country Name

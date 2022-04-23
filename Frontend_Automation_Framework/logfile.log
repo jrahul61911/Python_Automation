@@ -1,0 +1,64 @@
+2022-04-11 11:31:44,286 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 11:31:44,286 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 11:31:44,286 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 11:31:44,286 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 11:31:44,286 :INFO: Pytest.BaseClass : RK
+2022-04-11 11:31:44,291 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 11:31:44,292 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 11:31:44,292 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 11:31:44,292 :ERROR: Pytest.test_Logging : Test failed
+2022-04-11 11:53:34,468 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 11:53:34,477 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 11:53:34,477 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 11:53:34,477 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 11:53:34,478 :INFO: Pytest.BaseClass : RK
+2022-04-11 11:53:34,486 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 11:53:34,486 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 11:53:34,487 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 11:53:34,487 :ERROR: Pytest.test_Logging : Test failed
+2022-04-11 12:32:27,129 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 12:32:27,129 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 12:32:27,129 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 12:32:27,129 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 12:32:27,129 :INFO: Pytest.BaseClass : RK
+2022-04-11 12:32:27,133 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 12:32:27,134 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 12:32:27,134 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 12:32:27,134 :ERROR: Pytest.test_Logging : Test failed
+2022-04-11 12:36:35,020 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 12:36:35,020 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 12:36:35,021 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 12:36:35,022 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 12:36:35,022 :INFO: Pytest.BaseClass : RK
+2022-04-11 12:36:35,030 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 12:36:35,030 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 12:36:35,030 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 12:36:35,030 :ERROR: Pytest.test_Logging : Test failed
+2022-04-11 12:41:17,193 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 12:41:17,193 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 12:41:17,194 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 12:41:17,194 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 12:41:17,194 :INFO: Pytest.BaseClass : RK
+2022-04-11 12:41:17,198 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 12:41:17,198 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 12:41:17,198 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 12:41:17,198 :ERROR: Pytest.test_Logging : Test failed
+2022-04-11 12:42:08,926 :DEBUG: Pytest.BaseClass : A debug statement is executed
+2022-04-11 12:42:08,926 :INFO: Pytest.BaseClass : Information Statement
+2022-04-11 12:42:08,926 :WARNING: Pytest.BaseClass : Something is in warning mode
+2022-04-11 12:42:08,926 :ERROR: Pytest.BaseClass : Test failed
+2022-04-11 12:42:08,926 :INFO: Pytest.BaseClass : RK
+2022-04-11 12:42:08,932 :DEBUG: Pytest.test_Logging : A debug statement is executed
+2022-04-11 12:42:08,932 :INFO: Pytest.test_Logging : Information Statement
+2022-04-11 12:42:08,932 :WARNING: Pytest.test_Logging : Something is in warning mode
+2022-04-11 12:42:08,932 :ERROR: Pytest.test_Logging : Test failed
+2022-04-16 15:05:25,937 :DEBUG: utilities.BaseClass : A debug statement is executed
+2022-04-16 15:05:25,938 :INFO: utilities.BaseClass : Information Statement
+2022-04-16 15:05:25,938 :WARNING: utilities.BaseClass : Something is in warning mode
+2022-04-16 15:05:25,938 :ERROR: utilities.BaseClass : Test failed
+2022-04-16 15:05:26,896 :INFO: utilities.BaseClass : Getting all the card details
+2022-04-16 15:05:26,938 :INFO: utilities.BaseClass : iphone X
+2022-04-16 15:05:26,954 :INFO: utilities.BaseClass : Samsung Note 8
+2022-04-16 15:05:26,977 :INFO: utilities.BaseClass : Nokia Edge
+2022-04-16 15:05:27,000 :INFO: utilities.BaseClass : Blackberry
+2022-04-16 15:05:27,228 :INFO: utilities.BaseClass : Entering Country Name
