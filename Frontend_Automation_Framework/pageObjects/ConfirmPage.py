@@ -16,6 +16,7 @@ class ConfirmPage:
 
     def country_Names_List(self):
         print("New List")
+        print("New List for test")
         return self.driver.find_element(*ConfirmPage.countryList)
 
     # def CountryNames(self):
